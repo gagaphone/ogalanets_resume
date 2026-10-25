@@ -43,10 +43,6 @@ My work included stakeholder engagement and communication for initiatives such a
 
 ## Certifications & Continuous Learning
 
-I'm committed to continuous learning at the intersection of programme delivery, cloud technology, and AI.
-
-## Certifications & Continuous Learning
-
 I continuously develop my expertise across programme and product management, cloud technologies, software development, AI, cybersecurity, and digital transformation.
 
 ### 📋 1. Project Management, Agile & Product Management
